@@ -1,4 +1,4 @@
-# ASP2024
+# ASP2026
 Course material for the **A**frican **S**chool of **P**hysics 2024, Marrakesh, Morocco.
 ## Introduction
 At ASP2022 a workshop on small physics experiments and the **I**nternet **o**f **T**hings (IoT) has been integrated for the first time. This is a hands-on workshop where the students create small experiments.
@@ -16,5 +16,6 @@ The laboratory equipment consists of
 * a 128x64 pixel **O**rganic **LED** (OLED) display
 * a stepping motor with driver   
 
+Most is the information comes from the ASP2024 school in Marrakesh but it has been extended and upgraded for ASP2026 in Nairobi. In particular a new chapter on ESPNOW was been added.
 Please check the Wiki pages for more information.
 This is work in progress.
